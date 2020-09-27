@@ -1,0 +1,4 @@
+bundles:
+  - react:
+      where: 'npm'
+      version: '16.13.1'

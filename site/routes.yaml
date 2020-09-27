@@ -1,0 +1,7 @@
+routes:
+  - route: '/'
+    dev_name: 'root'
+  
+  - route: '/test'
+    dev_name: 'test'
+    

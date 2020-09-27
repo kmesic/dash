@@ -1,0 +1,10 @@
+head:
+  title: 'Login'
+  icon: 'login-icon'
+  meta:
+    - charset: utf-8
+    - viewport: 'width=device-width, initial-scale=1'
+body:
+  script: 'test'
+  partials:
+    - test
